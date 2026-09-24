@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer Name,Segment,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Region,City,State
+ORD-10085,2024-01-01,Customer 063,Consumer,Office Supplies,Storage,Notebook,257.53,6,0.0,47.68,Central,Delhi,Delhi
+ORD-10135,2024-01-02,Customer 033,Home Office,Office Supplies,Binders,File Folder,311.12,4,0.2,21.83,West,Mumbai,Maharashtra
+ORD-10159,2024-01-03,Customer 026,Home Office,Office Supplies,Binders,Printer Paper,259.83,3,0.1,45.55,West,Mumbai,Maharashtra
+ORD-10297,2024-01-05,Customer 052,Consumer,Office Supplies,Binders,File Folder,61.35,1,0.0,13.41,South,Bengaluru,Karnataka
+ORD-10009,2024-01-05,Customer 014,Consumer,Furniture,Bookcases,Bookshelf,245.17,1,0.15,8.6,East,Kolkata,West Bengal
+ORD-10043,2024-01-09,Customer 074,Corporate,Technology,Computers,Keyboard,2942.61,4,0.3,79.86,East,Kolkata,West Bengal
+ORD-10020,2024-01-09,Customer 019,Corporate,Furniture,Chairs,Conference Table,899.35,4,0.2,22.53,Central,Delhi,Delhi
+ORD-10139,2024-01-12,Customer 012,Consumer,Furniture,Bookcases,Bookshelf,2475.68,7,0.0,311.78,East,Kolkata,West Bengal
+ORD-10174,2024-01-12,Customer 017,Consumer,Office Supplies,Storage,Notebook,261.71,7,0.1,38.59,South,Bengaluru,Karnataka
+ORD-10376,2024-01-13,Customer 077,Corporate,Office Supplies,Binders,File Folder,358.09,6,0.3,20.24,East,Kolkata,West Bengal
+ORD-10394,2024-01-13,Customer 013,Corporate,Technology,Phones,Keyboard,120.88,7,0.1,13.3,West,Mumbai,Maharashtra
+ORD-10081,2024-01-15,Customer 029,Consumer,Furniture,Tables,Cabinet,1119.89,7,0.1,-1.0,East,Kolkata,West Bengal
+ORD-10036,2024-01-16,Customer 024,Home Office,Technology,Accessories,Monitor,6663.7,7,0.15,666.54,West,Mumbai,Maharashtra
+ORD-10105,2024-01-17,Customer 074,Corporate,Office Supplies,Binders,Printer Paper,164.01,4,0.2,13.54,East,Kolkata,West Bengal
+ORD-10349,2024-01-19,Customer 067,Corporate,Office Supplies,Storage,File Folder,44.18,3,0.1,8.28,Central,Delhi,Delhi
+ORD-10150,2024-01-20,Customer 026,Consumer,Furniture,Bookcases,Cabinet,857.95,4,0.1,54.81,Central,Delhi,Delhi
+ORD-10329,2024-01-20,Customer 041,Consumer,Furniture,Tables,Desk,386.05,3,0.2,7.85,South,Bengaluru,Karnataka
+ORD-10023,2024-01-22,Customer 030,Home Office,Office Supplies,Storage,Notebook,67.21,1,0.1,15.92,East,Kolkata,West Bengal
+ORD-10146,2024-01-28,Customer 066,Home Office,Office Supplies,Paper,File Folder,120.33,2,0.05,18.18,East,Kolkata,West Bengal
+ORD-10101,2024-01-29,Customer 021,Corporate,Technology,Accessories,Smartphone,2371.13,6,0.1,310.52,Central,Delhi,Delhi
+ORD-10190,2024-01-29,Customer 010,Home Office,Technology,Accessories,Keyboard,629.92,1,0.1,57.56,South,Bengaluru,Karnataka
+ORD-10084,2024-01-29,Customer 078,Home Office,Technology,Phones,Smartphone,746.42,1,0.1,123.43,West,Mumbai,Maharashtra
+ORD-10044,2024-01-29,Customer 037,Consumer,Technology,Accessories,Keyboard,1179.15,2,0.0,203.98,South,Bengaluru,Karnataka
+ORD-10278,2024-01-30,Customer 063,Consumer,Furniture,Tables,Desk,643.77,4,0.05,39.58,Central,Delhi,Delhi
+ORD-10315,2024-02-01,Customer 059,Consumer,Furniture,Chairs,Cabinet,120.67,1,0.15,-1.99,West,Mumbai,Maharashtra
+ORD-10068,2024-02-03,Customer 008,Corporate,Technology,Accessories,Tablet,312.35,1,0.1,39.01,South,Bengaluru,Karnataka
+ORD-10432,2024-02-03,Customer 013,Consumer,Furniture,Tables,Desk,1220.8,5,0.05,157.26,West,Mumbai,Maharashtra
+ORD-10141,2024-02-04,Customer 061,Consumer,Furniture,Tables,Desk,668.78,3,0.0,82.66,Central,Delhi,Delhi
+ORD-10382,2024-02-05,Customer 026,Corporate,Office Supplies,Storage,Storage Box,166.57,6,0.05,22.24,Central,Delhi,Delhi
+ORD-10119,2024-02-07,Customer 072,Corporate,Furniture,Chairs,Office Chair,751.18,5,0.05,91.45,South,Bengaluru,Karnataka
+ORD-10104,2024-02-08,Customer 035,Corporate,Technology,Phones,Laptop,761.07,1,0.1,94.05,East,Kolkata,West Bengal
+ORD-10111,2024-02-08,Customer 046,Consumer,Furniture,Tables,Bookshelf,372.6,2,0.2,-9.53,West,Mumbai,Maharashtra
+ORD-10463,2024-02-08,Customer 004,Consumer,Office Supplies,Storage,Binder,244.35,3,0.1,24.12,West,Mumbai,Maharashtra
+ORD-10099,2024-02-10,Customer 038,Consumer,Technology,Accessories,Keyboard,1407.01,3,0.15,192.57,East,Kolkata,West Bengal
+ORD-10251,2024-02-10,Customer 039,Consumer,Technology,Computers,Monitor,1670.72,4,0.05,297.78,East,Kolkata,West Bengal
+ORD-10453,2024-02-11,Customer 027,Home Office,Office Supplies,Storage,Binder,162.2,4,0.0,32.22,West,Mumbai,Maharashtra
+ORD-10182,2024-02-12,Customer 002,Corporate,Technology,Computers,Monitor,1128.62,2,0.0,187.61,Central,Delhi,Delhi
+ORD-10160,2024-02-12,Customer 048,Consumer,Furniture,Chairs,Cabinet,188.88,2,0.1,13.25,West,Mumbai,Maharashtra
+ORD-10346,2024-02-14,Customer 017,Corporate,Technology,Computers,Keyboard,3762.45,7,0.05,470.08,East,Kolkata,West Bengal
+ORD-10211,2024-02-18,Customer 021,Consumer,Office Supplies,Paper,Binder,94.16,2,0.05,17.74,East,Kolkata,West Bengal
+ORD-10166,2024-02-18,Customer 026,Consumer,Furniture,Chairs,Desk,553.92,2,0.15,16.56,South,Bengaluru,Karnataka
+ORD-10057,2024-02-23,Customer 005,Consumer,Office Supplies,Binders,Printer Paper,159.11,2,0.05,27.01,Central,Delhi,Delhi
+ORD-10366,2024-02-25,Customer 059,Consumer,Technology,Computers,Keyboard,1860.07,4,0.05,268.96,Central,Delhi,Delhi
+ORD-10271,2024-02-26,Customer 047,Home Office,Furniture,Tables,Cabinet,686.97,4,0.05,81.32,West,Mumbai,Maharashtra
+ORD-10032,2024-02-27,Customer 055,Consumer,Technology,Accessories,Tablet,3031.82,7,0.1,334.75,West,Mumbai,Maharashtra
+ORD-10306,2024-02-27,Customer 026,Home Office,Office Supplies,Binders,Notebook,39.15,2,0.15,6.49,South,Bengaluru,Karnataka
+ORD-10172,2024-02-27,Customer 003,Consumer,Technology,Computers,Keyboard,4296.71,6,0.05,767.47,West,Mumbai,Maharashtra
+ORD-10114,2024-03-01,Customer 043,Corporate,Technology,Phones,Laptop,4859.43,7,0.05,595.52,Central,Delhi,Delhi
+ORD-10041,2024-03-02,Customer 013,Home Office,Technology,Phones,Keyboard,2700.27,7,0.2,210.21,East,Kolkata,West Bengal
+ORD-10265,2024-03-04,Customer 011,Consumer,Office Supplies,Paper,File Folder,529.52,5,0.05,67.47,Central,Delhi,Delhi
+ORD-10221,2024-03-06,Customer 025,Consumer,Office Supplies,Binders,File Folder,341.86,4,0.1,53.47,Central,Delhi,Delhi
+ORD-10261,2024-03-08,Customer 069,Consumer,Office Supplies,Storage,File Folder,50.72,2,0.05,6.49,East,Kolkata,West Bengal
+ORD-10342,2024-03-09,Customer 001,Consumer,Technology,Phones,Laptop,1154.8,2,0.1,163.28,South,Bengaluru,Karnataka
+ORD-10060,2024-03-09,Customer 034,Corporate,Technology,Phones,Keyboard,2563.66,4,0.15,238.88,West,Mumbai,Maharashtra
+ORD-10102,2024-03-09,Customer 056,Consumer,Technology,Computers,Tablet,4666.84,6,0.2,284.04,South,Bengaluru,Karnataka
+ORD-10204,2024-03-10,Customer 056,Consumer,Furniture,Tables,Office Chair,559.17,2,0.15,39.79,West,Mumbai,Maharashtra
+ORD-10406,2024-03-10,Customer 047,Consumer,Furniture,Chairs,Desk,503.92,2,0.1,23.02,Central,Delhi,Delhi
+ORD-10485,2024-03-15,Customer 014,Consumer,Technology,Accessories,Smartphone,160.19,1,0.15,15.46,Central,Delhi,Delhi
+ORD-10456,2024-03-15,Customer 049,Corporate,Technology,Phones,Laptop,1441.73,5,0.15,193.77,West,Mumbai,Maharashtra
+ORD-10034,2024-03-16,Customer 026,Consumer,Technology,Phones,Keyboard,2281.67,7,0.15,354.14,East,Kolkata,West Bengal
+ORD-10442,2024-03-18,Customer 066,Consumer,Technology,Computers,Monitor,1456.12,4,0.15,103.96,South,Bengaluru,Karnataka
+ORD-10094,2024-03-18,Customer 032,Home Office,Office Supplies,Storage,Notebook,193.0,4,0.05,31.97,Central,Delhi,Delhi
+ORD-10129,2024-03-24,Customer 006,Corporate,Office Supplies,Storage,Binder,63.29,1,0.2,6.16,East,Kolkata,West Bengal
+ORD-10107,2024-03-26,Customer 007,Consumer,Office Supplies,Storage,Printer Paper,63.27,1,0.0,13.05,East,Kolkata,West Bengal
+ORD-10092,2024-03-27,Customer 055,Consumer,Technology,Phones,Tablet,1162.47,2,0.1,99.05,West,Mumbai,Maharashtra
+ORD-10317,2024-03-28,Customer 066,Corporate,Furniture,Chairs,Office Chair,295.35,7,0.2,4.35,South,Bengaluru,Karnataka
+ORD-10163,2024-03-30,Customer 075,Consumer,Office Supplies,Storage,Printer Paper,164.8,4,0.3,13.47,South,Bengaluru,Karnataka
+ORD-10353,2024-04-02,Customer 080,Consumer,Office Supplies,Binders,File Folder,72.62,1,0.15,10.87,South,Bengaluru,Karnataka
+ORD-10303,2024-04-02,Customer 044,Consumer,Office Supplies,Binders,Notebook,109.77,3,0.1,17.47,West,Mumbai,Maharashtra
+ORD-10350,2024-04-02,Customer 048,Home Office,Furniture,Chairs,Cabinet,521.65,2,0.1,3.26,South,Bengaluru,Karnataka
+ORD-10033,2024-04-05,Customer 048,Consumer,Technology,Accessories,Laptop,1043.81,4,0.0,177.41,East,Kolkata,West Bengal
+ORD-10109,2024-04-07,Customer 003,Corporate,Furniture,Bookcases,Office Chair,670.82,6,0.0,90.58,South,Bengaluru,Karnataka
+ORD-10425,2024-04-08,Customer 075,Consumer,Technology,Accessories,Smartphone,3691.03,6,0.0,847.69,East,Kolkata,West Bengal
+ORD-10264,2024-04-13,Customer 024,Corporate,Technology,Computers,Smartphone,1648.17,3,0.15,128.36,East,Kolkata,West Bengal
+ORD-10421,2024-04-15,Customer 011,Corporate,Technology,Phones,Smartphone,2012.9,4,0.1,236.49,South,Bengaluru,Karnataka
+ORD-10064,2024-04-16,Customer 063,Consumer,Office Supplies,Paper,Printer Paper,92.81,1,0.1,12.91,East,Kolkata,West Bengal
+ORD-10226,2024-04-18,Customer 021,Corporate,Furniture,Bookcases,Office Chair,615.32,4,0.3,-6.6,West,Mumbai,Maharashtra
+ORD-10180,2024-04-19,Customer 080,Corporate,Furniture,Chairs,Desk,68.38,1,0.1,4.0,East,Kolkata,West Bengal
+ORD-10393,2024-04-20,Customer 059,Corporate,Furniture,Tables,Bookshelf,1154.71,5,0.2,31.46,East,Kolkata,West Bengal
+ORD-10201,2024-04-20,Customer 008,Consumer,Office Supplies,Storage,Storage Box,367.96,6,0.15,53.17,South,Bengaluru,Karnataka
+ORD-10316,2024-04-20,Customer 025,Consumer,Technology,Phones,Tablet,194.19,2,0.2,11.88,East,Kolkata,West Bengal
+ORD-10015,2024-04-22,Customer 002,Consumer,Furniture,Bookcases,Desk,412.25,3,0.0,37.19,West,Mumbai,Maharashtra
+ORD-10197,2024-04-22,Customer 021,Consumer,Technology,Accessories,Monitor,2898.99,6,0.1,406.95,South,Bengaluru,Karnataka
+ORD-10499,2024-04-24,Customer 028,Corporate,Technology,Accessories,Laptop,5598.3,7,0.1,701.27,West,Mumbai,Maharashtra
+ORD-10161,2024-04-26,Customer 015,Consumer,Furniture,Bookcases,Bookshelf,995.82,5,0.2,47.65,Central,Delhi,Delhi
+ORD-10209,2024-04-27,Customer 045,Consumer,Furniture,Bookcases,Conference Table,336.54,1,0.3,-8.78,West,Mumbai,Maharashtra
+ORD-10071,2024-04-27,Customer 051,Corporate,Office Supplies,Paper,Binder,211.05,3,0.0,43.13,West,Mumbai,Maharashtra
+ORD-10165,2024-04-27,Customer 021,Home Office,Furniture,Bookcases,Office Chair,918.57,4,0.3,-53.17,East,Kolkata,West Bengal
+ORD-10252,2024-04-27,Customer 073,Corporate,Technology,Accessories,Smartphone,1303.42,3,0.1,163.66,South,Bengaluru,Karnataka
+ORD-10341,2024-04-30,Customer 001,Home Office,Office Supplies,Paper,Binder,443.07,6,0.0,75.24,East,Kolkata,West Bengal
+ORD-10326,2024-05-07,Customer 054,Corporate,Technology,Phones,Monitor,2171.75,6,0.15,233.9,South,Bengaluru,Karnataka
+ORD-10153,2024-05-08,Customer 008,Consumer,Furniture,Chairs,Conference Table,534.37,2,0.3,-40.93,West,Mumbai,Maharashtra
+ORD-10494,2024-05-09,Customer 025,Corporate,Office Supplies,Paper,Notebook,372.16,7,0.0,79.09,Central,Delhi,Delhi
+ORD-10128,2024-05-09,Customer 047,Corporate,Technology,Computers,Keyboard,519.3,1,0.15,42.81,West,Mumbai,Maharashtra
+ORD-10229,2024-05-10,Customer 076,Consumer,Technology,Computers,Smartphone,1685.95,7,0.05,311.89,West,Mumbai,Maharashtra
+ORD-10388,2024-05-11,Customer 039,Home Office,Technology,Accessories,Tablet,1973.43,5,0.1,405.62,East,Kolkata,West Bengal
+ORD-10472,2024-05-15,Customer 016,Corporate,Office Supplies,Storage,Printer Paper,202.18,4,0.0,40.36,South,Bengaluru,Karnataka
+ORD-10332,2024-05-16,Customer 036,Home Office,Furniture,Tables,Office Chair,1011.68,5,0.1,64.44,West,Mumbai,Maharashtra
+ORD-10396,2024-05-19,Customer 078,Home Office,Furniture,Chairs,Office Chair,1079.96,4,0.05,124.43,South,Bengaluru,Karnataka
+ORD-10272,2024-05-20,Customer 008,Corporate,Furniture,Chairs,Bookshelf,313.11,1,0.0,24.05,South,Bengaluru,Karnataka
+ORD-10302,2024-05-20,Customer 008,Corporate,Office Supplies,Paper,Binder,315.99,5,0.15,37.31,South,Bengaluru,Karnataka
+ORD-10113,2024-05-25,Customer 062,Corporate,Technology,Phones,Laptop,470.51,3,0.2,28.7,South,Bengaluru,Karnataka
+ORD-10269,2024-05-26,Customer 063,Home Office,Office Supplies,Paper,Binder,542.09,7,0.2,45.46,Central,Delhi,Delhi
+ORD-10377,2024-05-29,Customer 020,Consumer,Furniture,Tables,Conference Table,2131.03,6,0.05,297.68,South,Bengaluru,Karnataka
+ORD-10403,2024-05-31,Customer 005,Consumer,Furniture,Tables,Desk,283.51,1,0.1,25.37,Central,Delhi,Delhi
+ORD-10235,2024-06-02,Customer 022,Home Office,Technology,Accessories,Tablet,1097.06,3,0.15,103.98,Central,Delhi,Delhi
+ORD-10026,2024-06-09,Customer 067,Consumer,Furniture,Chairs,Bookshelf,740.64,4,0.05,85.77,East,Kolkata,West Bengal
+ORD-10213,2024-06-11,Customer 055,Home Office,Technology,Computers,Monitor,434.23,1,0.05,63.57,South,Bengaluru,Karnataka
+ORD-10492,2024-06-12,Customer 013,Corporate,Office Supplies,Storage,Notebook,234.84,6,0.0,41.9,West,Mumbai,Maharashtra
+ORD-10313,2024-06-17,Customer 069,Corporate,Office Supplies,Storage,File Folder,305.24,4,0.1,35.95,West,Mumbai,Maharashtra
+ORD-10474,2024-06-19,Customer 006,Corporate,Technology,Phones,Smartphone,2294.54,4,0.0,489.86,Central,Delhi,Delhi
+ORD-10419,2024-06-19,Customer 045,Corporate,Furniture,Tables,Desk,327.11,2,0.15,30.11,West,Mumbai,Maharashtra
+ORD-10191,2024-06-21,Customer 069,Corporate,Technology,Computers,Smartphone,636.8,3,0.2,39.31,East,Kolkata,West Bengal
+ORD-10222,2024-06-26,Customer 043,Corporate,Technology,Accessories,Monitor,1491.16,3,0.15,111.76,Central,Delhi,Delhi
+ORD-10461,2024-06-26,Customer 073,Consumer,Furniture,Chairs,Conference Table,430.93,3,0.0,60.62,South,Bengaluru,Karnataka
+ORD-10087,2024-06-27,Customer 054,Consumer,Furniture,Bookcases,Desk,582.43,3,0.05,83.04,Central,Delhi,Delhi
+ORD-10061,2024-07-01,Customer 080,Consumer,Technology,Accessories,Tablet,1291.92,3,0.0,229.63,West,Mumbai,Maharashtra
+ORD-10340,2024-07-03,Customer 077,Consumer,Technology,Computers,Monitor,726.89,2,0.1,109.61,South,Bengaluru,Karnataka
+ORD-10006,2024-07-06,Customer 041,Consumer,Technology,Accessories,Keyboard,2859.29,5,0.05,389.88,East,Kolkata,West Bengal
+ORD-10030,2024-07-08,Customer 022,Corporate,Office Supplies,Binders,Printer Paper,223.28,7,0.0,52.7,West,Mumbai,Maharashtra
+ORD-10447,2024-07-08,Customer 032,Home Office,Office Supplies,Storage,Binder,224.17,6,0.05,47.78,Central,Delhi,Delhi
+ORD-10417,2024-07-08,Customer 004,Consumer,Furniture,Tables,Cabinet,892.04,7,0.0,96.46,South,Bengaluru,Karnataka
+ORD-10232,2024-07-09,Customer 067,Corporate,Office Supplies,Storage,Notebook,265.18,4,0.05,41.97,East,Kolkata,West Bengal
+ORD-10319,2024-07-10,Customer 065,Consumer,Technology,Phones,Monitor,2264.55,4,0.1,360.59,West,Mumbai,Maharashtra
+ORD-10257,2024-07-11,Customer 047,Consumer,Furniture,Chairs,Desk,539.44,4,0.2,1.92,East,Kolkata,West Bengal
+ORD-10321,2024-07-11,Customer 069,Corporate,Office Supplies,Paper,Binder,387.83,6,0.0,78.15,West,Mumbai,Maharashtra
+ORD-10430,2024-07-13,Customer 015,Consumer,Office Supplies,Paper,Printer Paper,383.53,7,0.1,48.05,West,Mumbai,Maharashtra
+ORD-10227,2024-07-14,Customer 025,Corporate,Furniture,Tables,Bookshelf,1750.15,7,0.0,169.47,West,Mumbai,Maharashtra
+ORD-10408,2024-07-15,Customer 073,Home Office,Office Supplies,Storage,Storage Box,204.59,5,0.1,28.14,West,Mumbai,Maharashtra
+ORD-10325,2024-07-15,Customer 066,Consumer,Furniture,Chairs,Bookshelf,178.74,1,0.15,-2.45,Central,Delhi,Delhi
+ORD-10017,2024-07-16,Customer 011,Corporate,Office Supplies,Storage,Binder,39.56,1,0.1,7.38,South,Bengaluru,Karnataka
+ORD-10218,2024-07-16,Customer 065,Consumer,Furniture,Bookcases,Office Chair,1744.54,7,0.0,304.15,East,Kolkata,West Bengal
+ORD-10308,2024-07-17,Customer 047,Home Office,Office Supplies,Storage,Storage Box,218.49,3,0.0,40.59,West,Mumbai,Maharashtra
+ORD-10450,2024-07-22,Customer 020,Corporate,Furniture,Chairs,Bookshelf,149.4,1,0.1,11.17,South,Bengaluru,Karnataka
+ORD-10348,2024-07-24,Customer 039,Consumer,Furniture,Tables,Conference Table,684.43,3,0.1,13.13,West,Mumbai,Maharashtra
+ORD-10138,2024-07-26,Customer 004,Corporate,Furniture,Tables,Conference Table,1165.04,6,0.15,128.04,West,Mumbai,Maharashtra
+ORD-10490,2024-07-27,Customer 016,Consumer,Technology,Computers,Monitor,2694.68,7,0.05,474.41,East,Kolkata,West Bengal
+ORD-10083,2024-07-28,Customer 060,Corporate,Furniture,Tables,Desk,1672.01,6,0.0,211.31,South,Bengaluru,Karnataka
+ORD-10207,2024-07-29,Customer 022,Corporate,Furniture,Tables,Desk,839.8,3,0.1,40.7,South,Bengaluru,Karnataka
+ORD-10344,2024-07-31,Customer 061,Consumer,Technology,Accessories,Smartphone,561.45,1,0.2,39.45,Central,Delhi,Delhi
+ORD-10220,2024-08-01,Customer 015,Consumer,Office Supplies,Storage,Notebook,402.31,7,0.15,60.14,East,Kolkata,West Bengal
+ORD-10481,2024-08-01,Customer 026,Home Office,Furniture,Tables,Conference Table,428.75,3,0.0,47.8,East,Kolkata,West Bengal
+ORD-10178,2024-08-03,Customer 030,Corporate,Furniture,Bookcases,Bookshelf,1584.11,7,0.05,141.83,Central,Delhi,Delhi
+ORD-10117,2024-08-03,Customer 003,Corporate,Technology,Phones,Tablet,2694.92,4,0.15,216.61,West,Mumbai,Maharashtra
+ORD-10487,2024-08-08,Customer 019,Corporate,Technology,Phones,Laptop,1943.6,4,0.05,239.33,East,Kolkata,West Bengal
+ORD-10309,2024-08-08,Customer 008,Consumer,Technology,Phones,Monitor,2752.12,7,0.05,133.08,Central,Delhi,Delhi
+ORD-10125,2024-08-09,Customer 037,Consumer,Furniture,Bookcases,Desk,212.66,1,0.1,15.6,South,Bengaluru,Karnataka
+ORD-10091,2024-08-09,Customer 038,Corporate,Furniture,Chairs,Bookshelf,2849.69,7,0.1,351.91,South,Bengaluru,Karnataka
+ORD-10379,2024-08-10,Customer 057,Consumer,Office Supplies,Storage,Notebook,130.16,3,0.15,12.81,Central,Delhi,Delhi
+ORD-10137,2024-08-10,Customer 032,Consumer,Technology,Computers,Keyboard,1449.49,3,0.1,219.47,South,Bengaluru,Karnataka
+ORD-10189,2024-08-14,Customer 052,Home Office,Office Supplies,Paper,Printer Paper,278.8,6,0.15,25.36,West,Mumbai,Maharashtra
+ORD-10267,2024-08-15,Customer 075,Consumer,Office Supplies,Binders,File Folder,215.99,4,0.05,47.89,South,Bengaluru,Karnataka
+ORD-10048,2024-08-16,Customer 036,Corporate,Furniture,Tables,Conference Table,1126.82,5,0.3,-17.46,South,Bengaluru,Karnataka
+ORD-10067,2024-08-18,Customer 044,Consumer,Office Supplies,Storage,Notebook,359.81,7,0.05,61.55,East,Kolkata,West Bengal
+ORD-10276,2024-08-20,Customer 030,Home Office,Furniture,Bookcases,Bookshelf,1197.79,6,0.05,38.79,East,Kolkata,West Bengal
+ORD-10424,2024-08-24,Customer 025,Corporate,Technology,Computers,Keyboard,4089.71,7,0.15,397.97,West,Mumbai,Maharashtra
+ORD-10144,2024-08-24,Customer 018,Corporate,Furniture,Bookcases,Desk,844.92,3,0.05,82.7,Central,Delhi,Delhi
+ORD-10053,2024-08-26,Customer 049,Consumer,Office Supplies,Paper,Storage Box,573.6,7,0.1,75.47,West,Mumbai,Maharashtra
+ORD-10378,2024-08-26,Customer 056,Consumer,Furniture,Tables,Office Chair,531.77,4,0.2,15.25,East,Kolkata,West Bengal
+ORD-10363,2024-08-26,Customer 067,Home Office,Furniture,Bookcases,Desk,1016.08,6,0.15,64.15,West,Mumbai,Maharashtra
+ORD-10426,2024-08-28,Customer 018,Home Office,Furniture,Chairs,Office Chair,1045.62,6,0.0,122.14,Central,Delhi,Delhi
+ORD-10010,2024-08-28,Customer 052,Corporate,Office Supplies,Storage,Printer Paper,56.84,2,0.2,4.64,South,Bengaluru,Karnataka
+ORD-10151,2024-08-29,Customer 043,Consumer,Office Supplies,Binders,Storage Box,440.14,5,0.05,86.12,East,Kolkata,West Bengal
+ORD-10407,2024-08-29,Customer 010,Consumer,Furniture,Chairs,Conference Table,1101.08,3,0.2,37.76,East,Kolkata,West Bengal
+ORD-10413,2024-09-01,Customer 035,Consumer,Furniture,Tables,Cabinet,1318.24,7,0.1,131.32,East,Kolkata,West Bengal
+ORD-10175,2024-09-04,Customer 065,Corporate,Office Supplies,Binders,Storage Box,237.81,7,0.3,6.07,East,Kolkata,West Bengal
+ORD-10214,2024-09-06,Customer 057,Consumer,Furniture,Tables,Desk,179.49,1,0.0,21.46,West,Mumbai,Maharashtra
+ORD-10249,2024-09-06,Customer 069,Consumer,Technology,Phones,Keyboard,1045.14,4,0.15,134.17,Central,Delhi,Delhi
+ORD-10423,2024-09-07,Customer 073,Consumer,Office Supplies,Storage,Storage Box,154.71,3,0.1,16.1,Central,Delhi,Delhi
+ORD-10035,2024-09-10,Customer 023,Consumer,Furniture,Chairs,Cabinet,1642.98,6,0.05,181.54,West,Mumbai,Maharashtra
+ORD-10123,2024-09-14,Customer 078,Corporate,Office Supplies,Binders,Printer Paper,178.26,3,0.0,34.84,South,Bengaluru,Karnataka
+ORD-10224,2024-09-15,Customer 027,Consumer,Furniture,Tables,Conference Table,501.53,4,0.1,35.8,South,Bengaluru,Karnataka
+ORD-10049,2024-09-15,Customer 016,Corporate,Technology,Accessories,Laptop,381.97,1,0.1,69.06,Central,Delhi,Delhi
+ORD-10374,2024-09-16,Customer 065,Consumer,Office Supplies,Storage,Notebook,56.83,1,0.15,5.4,South,Bengaluru,Karnataka
+ORD-10112,2024-09-22,Customer 030,Consumer,Technology,Phones,Keyboard,2379.49,4,0.3,58.1,Central,Delhi,Delhi
+ORD-10253,2024-09-24,Customer 035,Consumer,Office Supplies,Binders,Binder,164.92,5,0.0,33.52,Central,Delhi,Delhi
+ORD-10351,2024-09-25,Customer 069,Corporate,Technology,Phones,Keyboard,2529.26,5,0.1,312.75,Central,Delhi,Delhi
+ORD-10496,2024-09-26,Customer 049,Corporate,Office Supplies,Binders,Notebook,171.65,4,0.15,25.58,South,Bengaluru,Karnataka
+ORD-10320,2024-09-26,Customer 034,Consumer,Office Supplies,Binders,Notebook,141.95,3,0.15,17.96,South,Bengaluru,Karnataka
+ORD-10005,2024-09-27,Customer 072,Corporate,Furniture,Tables,Conference Table,547.55,2,0.15,17.71,South,Bengaluru,Karnataka
+ORD-10489,2024-09-30,Customer 060,Consumer,Technology,Accessories,Keyboard,1076.47,2,0.15,78.79,East,Kolkata,West Bengal
+ORD-10373,2024-10-03,Customer 044,Consumer,Office Supplies,Paper,Printer Paper,103.85,3,0.2,13.96,East,Kolkata,West Bengal
+ORD-10298,2024-10-03,Customer 046,Consumer,Furniture,Chairs,Desk,577.26,6,0.1,40.72,West,Mumbai,Maharashtra
+ORD-10098,2024-10-04,Customer 004,Consumer,Office Supplies,Binders,Notebook,192.98,2,0.05,37.18,East,Kolkata,West Bengal
+ORD-10307,2024-10-04,Customer 041,Home Office,Office Supplies,Binders,Binder,118.57,3,0.3,6.8,East,Kolkata,West Bengal
+ORD-10157,2024-10-05,Customer 075,Consumer,Furniture,Chairs,Conference Table,1736.48,6,0.2,10.13,West,Mumbai,Maharashtra
+ORD-10254,2024-10-05,Customer 024,Corporate,Technology,Computers,Smartphone,2375.89,5,0.05,289.07,South,Bengaluru,Karnataka
+ORD-10310,2024-10-06,Customer 027,Corporate,Office Supplies,Binders,File Folder,331.29,6,0.1,55.09,East,Kolkata,West Bengal
+ORD-10330,2024-10-09,Customer 010,Consumer,Office Supplies,Storage,Printer Paper,488.76,6,0.05,98.32,South,Bengaluru,Karnataka
+ORD-10082,2024-10-09,Customer 069,Corporate,Office Supplies,Paper,Printer Paper,245.04,3,0.1,42.95,West,Mumbai,Maharashtra
+ORD-10237,2024-10-12,Customer 009,Consumer,Office Supplies,Paper,File Folder,186.21,3,0.0,47.51,South,Bengaluru,Karnataka
+ORD-10170,2024-10-14,Customer 039,Corporate,Technology,Computers,Laptop,511.42,1,0.05,96.47,South,Bengaluru,Karnataka
+ORD-10007,2024-10-15,Customer 005,Home Office,Technology,Phones,Laptop,541.68,1,0.15,67.24,West,Mumbai,Maharashtra
+ORD-10479,2024-10-15,Customer 019,Consumer,Furniture,Bookcases,Bookshelf,346.88,2,0.15,21.6,South,Bengaluru,Karnataka
+ORD-10217,2024-10-15,Customer 024,Consumer,Technology,Accessories,Keyboard,1281.44,4,0.15,118.63,West,Mumbai,Maharashtra
+ORD-10245,2024-10-17,Customer 048,Consumer,Office Supplies,Binders,Notebook,50.76,1,0.0,7.0,South,Bengaluru,Karnataka
+ORD-10076,2024-10-17,Customer 037,Corporate,Office Supplies,Paper,File Folder,307.49,5,0.05,49.24,Central,Delhi,Delhi
+ORD-10219,2024-10-20,Customer 060,Consumer,Furniture,Tables,Office Chair,691.43,2,0.05,58.55,Central,Delhi,Delhi
+ORD-10077,2024-10-21,Customer 014,Home Office,Furniture,Tables,Conference Table,199.19,1,0.15,13.13,East,Kolkata,West Bengal
+ORD-10275,2024-10-21,Customer 067,Corporate,Furniture,Tables,Desk,192.44,2,0.05,13.4,West,Mumbai,Maharashtra
+ORD-10164,2024-10-24,Customer 056,Home Office,Furniture,Bookcases,Cabinet,1215.86,7,0.1,90.7,South,Bengaluru,Karnataka
+ORD-10452,2024-10-25,Customer 077,Consumer,Furniture,Bookcases,Bookshelf,1261.62,4,0.05,218.3,South,Bengaluru,Karnataka
+ORD-10155,2024-10-30,Customer 069,Corporate,Office Supplies,Paper,File Folder,66.9,1,0.15,8.14,West,Mumbai,Maharashtra
+ORD-10292,2024-11-02,Customer 073,Consumer,Office Supplies,Paper,File Folder,199.13,3,0.2,29.82,South,Bengaluru,Karnataka
+ORD-10140,2024-11-04,Customer 055,Consumer,Office Supplies,Binders,Binder,610.24,7,0.2,51.19,South,Bengaluru,Karnataka
+ORD-10446,2024-11-05,Customer 044,Corporate,Technology,Phones,Keyboard,3373.02,7,0.2,211.7,East,Kolkata,West Bengal
+ORD-10343,2024-11-06,Customer 046,Home Office,Office Supplies,Binders,Notebook,248.87,5,0.2,23.56,South,Bengaluru,Karnataka
+ORD-10301,2024-11-06,Customer 026,Consumer,Office Supplies,Binders,Notebook,187.37,4,0.1,18.08,South,Bengaluru,Karnataka
+ORD-10457,2024-11-08,Customer 026,Corporate,Office Supplies,Binders,Notebook,296.85,7,0.1,52.33,East,Kolkata,West Bengal
+ORD-10148,2024-11-08,Customer 064,Consumer,Furniture,Tables,Office Chair,388.61,1,0.2,-10.8,South,Bengaluru,Karnataka
+ORD-10212,2024-11-08,Customer 070,Consumer,Furniture,Tables,Conference Table,1307.29,6,0.1,154.48,West,Mumbai,Maharashtra
+ORD-10069,2024-11-10,Customer 070,Corporate,Office Supplies,Binders,Notebook,409.34,5,0.1,43.27,East,Kolkata,West Bengal
+ORD-10145,2024-11-13,Customer 060,Consumer,Technology,Computers,Smartphone,2003.99,4,0.1,232.97,West,Mumbai,Maharashtra
+ORD-10074,2024-11-14,Customer 073,Corporate,Technology,Computers,Smartphone,2194.77,4,0.0,328.38,Central,Delhi,Delhi
+ORD-10459,2024-11-15,Customer 007,Corporate,Office Supplies,Binders,Notebook,118.17,3,0.05,28.25,West,Mumbai,Maharashtra
+ORD-10476,2024-11-18,Customer 026,Corporate,Office Supplies,Paper,File Folder,142.18,4,0.0,26.24,South,Bengaluru,Karnataka
+ORD-10120,2024-11-18,Customer 056,Corporate,Furniture,Tables,Cabinet,893.33,4,0.2,36.55,South,Bengaluru,Karnataka
+ORD-10250,2024-11-19,Customer 033,Consumer,Furniture,Bookcases,Cabinet,1618.08,7,0.15,30.84,West,Mumbai,Maharashtra
+ORD-10495,2024-11-20,Customer 059,Consumer,Furniture,Bookcases,Bookshelf,382.28,2,0.05,30.19,West,Mumbai,Maharashtra
+ORD-10327,2024-11-20,Customer 028,Consumer,Technology,Accessories,Smartphone,240.79,1,0.3,4.17,East,Kolkata,West Bengal
+ORD-10089,2024-11-22,Customer 001,Consumer,Technology,Phones,Monitor,2803.81,6,0.0,599.71,West,Mumbai,Maharashtra
+ORD-10454,2024-11-23,Customer 059,Consumer,Office Supplies,Storage,File Folder,218.45,6,0.3,10.44,Central,Delhi,Delhi
+ORD-10093,2024-11-23,Customer 054,Consumer,Office Supplies,Paper,Notebook,41.44,1,0.15,3.96,East,Kolkata,West Bengal
+ORD-10470,2024-11-25,Customer 039,Consumer,Office Supplies,Paper,Notebook,163.92,2,0.1,26.49,Central,Delhi,Delhi
+ORD-10012,2024-11-26,Customer 062,Consumer,Furniture,Chairs,Cabinet,635.12,6,0.1,36.92,East,Kolkata,West Bengal
+ORD-10241,2024-11-27,Customer 054,Consumer,Technology,Phones,Monitor,1658.68,3,0.1,341.07,Central,Delhi,Delhi
+ORD-10411,2024-11-30,Customer 022,Consumer,Technology,Computers,Laptop,515.52,1,0.2,23.74,East,Kolkata,West Bengal
+ORD-10059,2024-11-30,Customer 030,Corporate,Furniture,Bookcases,Bookshelf,597.77,3,0.1,51.72,Central,Delhi,Delhi
+ORD-10230,2024-12-03,Customer 058,Corporate,Technology,Accessories,Laptop,2924.96,5,0.15,270.36,Central,Delhi,Delhi
+ORD-10435,2024-12-04,Customer 053,Corporate,Furniture,Chairs,Desk,288.76,1,0.2,18.74,Central,Delhi,Delhi
+ORD-10246,2024-12-06,Customer 049,Consumer,Technology,Phones,Keyboard,2981.54,6,0.05,480.51,West,Mumbai,Maharashtra
+ORD-10486,2024-12-09,Customer 035,Home Office,Office Supplies,Paper,Binder,59.48,1,0.1,7.27,South,Bengaluru,Karnataka
+ORD-10358,2024-12-13,Customer 031,Corporate,Office Supplies,Binders,Binder,229.11,3,0.15,24.14,East,Kolkata,West Bengal
+ORD-10131,2024-12-14,Customer 064,Consumer,Office Supplies,Binders,Notebook,86.31,1,0.0,10.84,South,Bengaluru,Karnataka
+ORD-10208,2024-12-15,Customer 055,Corporate,Furniture,Tables,Cabinet,1583.96,7,0.05,208.6,East,Kolkata,West Bengal
+ORD-10193,2024-12-15,Customer 008,Consumer,Technology,Accessories,Monitor,1061.35,3,0.1,170.7,West,Mumbai,Maharashtra
+ORD-10404,2024-12-16,Customer 050,Home Office,Technology,Computers,Tablet,1551.17,4,0.15,178.01,Central,Delhi,Delhi
+ORD-10121,2024-12-18,Customer 059,Home Office,Office Supplies,Paper,Storage Box,59.62,1,0.15,7.55,East,Kolkata,West Bengal
+ORD-10262,2024-12-19,Customer 032,Corporate,Technology,Accessories,Keyboard,3320.37,6,0.05,457.47,West,Mumbai,Maharashtra
+ORD-10284,2024-12-20,Customer 047,Consumer,Technology,Computers,Tablet,272.12,4,0.2,18.8,South,Bengaluru,Karnataka
+ORD-10416,2024-12-20,Customer 032,Corporate,Office Supplies,Binders,File Folder,362.83,5,0.3,11.16,West,Mumbai,Maharashtra
+ORD-10287,2024-12-21,Customer 021,Consumer,Office Supplies,Binders,File Folder,339.2,4,0.0,60.09,Central,Delhi,Delhi
+ORD-10465,2024-12-22,Customer 030,Corporate,Office Supplies,Binders,Storage Box,380.36,6,0.1,26.26,East,Kolkata,West Bengal
+ORD-10295,2024-12-27,Customer 057,Corporate,Furniture,Bookcases,Conference Table,737.8,6,0.0,74.89,West,Mumbai,Maharashtra
+ORD-10097,2024-12-29,Customer 024,Consumer,Technology,Phones,Laptop,784.4,2,0.3,22.88,West,Mumbai,Maharashtra
+ORD-10003,2025-01-01,Customer 060,Consumer,Technology,Accessories,Smartphone,710.8,2,0.15,63.08,East,Kolkata,West Bengal
+ORD-10477,2025-01-04,Customer 047,Home Office,Office Supplies,Binders,Storage Box,153.59,5,0.1,24.61,Central,Delhi,Delhi
+ORD-10216,2025-01-05,Customer 012,Consumer,Furniture,Chairs,Cabinet,310.99,2,0.05,34.47,East,Kolkata,West Bengal
+ORD-10108,2025-01-06,Customer 039,Consumer,Office Supplies,Paper,Binder,162.24,2,0.15,17.31,Central,Delhi,Delhi
+ORD-10162,2025-01-07,Customer 052,Corporate,Office Supplies,Storage,File Folder,140.49,5,0.0,27.7,East,Kolkata,West Bengal
+ORD-10195,2025-01-08,Customer 013,Corporate,Technology,Accessories,Smartphone,697.29,2,0.3,29.87,Central,Delhi,Delhi
+ORD-10274,2025-01-09,Customer 034,Corporate,Office Supplies,Storage,Binder,111.29,6,0.0,22.97,South,Bengaluru,Karnataka
+ORD-10334,2025-01-11,Customer 041,Consumer,Technology,Computers,Laptop,1357.47,3,0.1,166.15,South,Bengaluru,Karnataka
+ORD-10462,2025-01-11,Customer 018,Consumer,Technology,Computers,Monitor,1526.46,2,0.1,206.11,East,Kolkata,West Bengal
+ORD-10194,2025-01-16,Customer 068,Corporate,Office Supplies,Paper,Notebook,30.89,1,0.0,5.71,East,Kolkata,West Bengal
+ORD-10391,2025-01-17,Customer 022,Corporate,Technology,Computers,Keyboard,2827.96,6,0.1,211.95,East,Kolkata,West Bengal
+ORD-10273,2025-01-18,Customer 004,Consumer,Technology,Computers,Laptop,1409.88,4,0.05,228.25,West,Mumbai,Maharashtra
+ORD-10328,2025-01-21,Customer 010,Consumer,Furniture,Tables,Conference Table,227.41,1,0.0,17.44,Central,Delhi,Delhi
+ORD-10280,2025-01-24,Customer 069,Home Office,Furniture,Chairs,Desk,587.08,2,0.0,52.26,South,Bengaluru,Karnataka
+ORD-10188,2025-01-29,Customer 063,Consumer,Furniture,Tables,Cabinet,1052.9,5,0.05,83.65,South,Bengaluru,Karnataka
+ORD-10471,2025-01-30,Customer 038,Consumer,Technology,Computers,Tablet,944.11,3,0.1,141.06,Central,Delhi,Delhi
+ORD-10110,2025-01-31,Customer 033,Home Office,Furniture,Bookcases,Conference Table,1762.38,7,0.15,-35.94,West,Mumbai,Maharashtra
+ORD-10385,2025-02-02,Customer 015,Consumer,Furniture,Chairs,Cabinet,361.11,1,0.15,22.36,Central,Delhi,Delhi
+ORD-10029,2025-02-03,Customer 014,Home Office,Technology,Accessories,Laptop,2159.66,4,0.15,284.14,Central,Delhi,Delhi
+ORD-10324,2025-02-04,Customer 006,Consumer,Furniture,Chairs,Office Chair,571.24,4,0.05,33.96,East,Kolkata,West Bengal
+ORD-10062,2025-02-06,Customer 021,Consumer,Technology,Computers,Tablet,884.24,3,0.0,172.53,South,Bengaluru,Karnataka
+ORD-10142,2025-02-07,Customer 037,Consumer,Office Supplies,Paper,File Folder,62.69,1,0.15,8.58,South,Bengaluru,Karnataka
+ORD-10305,2025-02-07,Customer 035,Consumer,Office Supplies,Paper,Storage Box,366.89,3,0.1,37.09,Central,Delhi,Delhi
+ORD-10177,2025-02-10,Customer 026,Corporate,Furniture,Chairs,Desk,78.61,1,0.05,8.47,Central,Delhi,Delhi
+ORD-10047,2025-02-12,Customer 056,Consumer,Office Supplies,Paper,Binder,223.05,5,0.1,22.84,East,Kolkata,West Bengal
+ORD-10438,2025-02-13,Customer 075,Home Office,Office Supplies,Paper,Printer Paper,464.01,7,0.0,87.29,Central,Delhi,Delhi
+ORD-10013,2025-02-14,Customer 009,Consumer,Office Supplies,Binders,Notebook,116.1,4,0.0,19.67,East,Kolkata,West Bengal
+ORD-10296,2025-02-15,Customer 075,Consumer,Office Supplies,Paper,Binder,166.23,3,0.2,16.84,East,Kolkata,West Bengal
+ORD-10039,2025-02-16,Customer 036,Consumer,Furniture,Bookcases,Office Chair,1732.43,7,0.1,76.6,East,Kolkata,West Bengal
+ORD-10345,2025-02-17,Customer 057,Consumer,Technology,Computers,Laptop,2968.69,6,0.05,472.13,East,Kolkata,West Bengal
+ORD-10019,2025-02-18,Customer 042,Consumer,Technology,Phones,Smartphone,634.15,1,0.05,113.32,South,Bengaluru,Karnataka
+ORD-10187,2025-02-26,Customer 005,Consumer,Furniture,Bookcases,Cabinet,1498.78,6,0.15,117.7,East,Kolkata,West Bengal
+ORD-10436,2025-02-26,Customer 031,Corporate,Furniture,Tables,Desk,882.79,4,0.1,113.1,East,Kolkata,West Bengal
+ORD-10215,2025-03-01,Customer 026,Consumer,Technology,Computers,Smartphone,1381.65,3,0.2,118.1,South,Bengaluru,Karnataka
+ORD-10152,2025-03-03,Customer 038,Consumer,Furniture,Chairs,Office Chair,2077.93,7,0.1,-45.48,South,Bengaluru,Karnataka
+ORD-10386,2025-03-03,Customer 038,Corporate,Office Supplies,Paper,Notebook,10.0,1,0.15,1.77,Central,Delhi,Delhi
+ORD-10478,2025-03-03,Customer 065,Consumer,Technology,Accessories,Laptop,3704.24,7,0.15,322.46,Central,Delhi,Delhi
+ORD-10354,2025-03-04,Customer 015,Consumer,Office Supplies,Binders,Notebook,207.23,7,0.2,17.39,East,Kolkata,West Bengal
+ORD-10483,2025-03-07,Customer 006,Consumer,Technology,Phones,Tablet,1827.33,5,0.1,267.67,East,Kolkata,West Bengal
+ORD-10239,2025-03-07,Customer 030,Consumer,Technology,Phones,Laptop,3766.47,7,0.15,621.79,Central,Delhi,Delhi
+ORD-10405,2025-03-08,Customer 062,Consumer,Office Supplies,Storage,Notebook,271.99,6,0.05,42.9,South,Bengaluru,Karnataka
+ORD-10375,2025-03-09,Customer 033,Corporate,Furniture,Tables,Desk,1883.54,7,0.0,222.25,Central,Delhi,Delhi
+ORD-10228,2025-03-09,Customer 006,Corporate,Furniture,Tables,Cabinet,738.19,3,0.15,21.14,South,Bengaluru,Karnataka
+ORD-10449,2025-03-12,Customer 001,Consumer,Office Supplies,Storage,Binder,266.3,5,0.05,53.74,East,Kolkata,West Bengal
+ORD-10167,2025-03-14,Customer 069,Consumer,Furniture,Bookcases,Conference Table,1196.88,4,0.15,65.34,Central,Delhi,Delhi
+ORD-10488,2025-03-14,Customer 018,Consumer,Furniture,Bookcases,Office Chair,147.3,1,0.0,15.53,East,Kolkata,West Bengal
+ORD-10475,2025-03-16,Customer 051,Consumer,Technology,Accessories,Keyboard,977.03,3,0.0,178.86,South,Bengaluru,Karnataka
+ORD-10451,2025-03-16,Customer 052,Consumer,Office Supplies,Binders,Binder,343.62,6,0.15,38.61,East,Kolkata,West Bengal
+ORD-10173,2025-03-17,Customer 036,Home Office,Office Supplies,Binders,Notebook,149.96,3,0.0,37.76,East,Kolkata,West Bengal
+ORD-10360,2025-03-17,Customer 017,Consumer,Technology,Computers,Monitor,3492.7,5,0.05,417.26,Central,Delhi,Delhi
+ORD-10259,2025-03-18,Customer 067,Home Office,Furniture,Chairs,Conference Table,216.46,1,0.0,18.53,South,Bengaluru,Karnataka
+ORD-10439,2025-03-19,Customer 042,Consumer,Office Supplies,Paper,Binder,142.52,4,0.0,27.03,East,Kolkata,West Bengal
+ORD-10409,2025-03-20,Customer 054,Consumer,Technology,Computers,Tablet,2073.94,4,0.15,182.13,West,Mumbai,Maharashtra
+ORD-10045,2025-03-20,Customer 054,Corporate,Technology,Phones,Monitor,345.38,1,0.0,76.26,West,Mumbai,Maharashtra
+ORD-10070,2025-03-21,Customer 062,Corporate,Technology,Accessories,Keyboard,2505.1,6,0.2,4.16,South,Bengaluru,Karnataka
+ORD-10056,2025-03-24,Customer 032,Consumer,Technology,Phones,Laptop,1898.15,6,0.05,236.15,Central,Delhi,Delhi
+ORD-10052,2025-03-25,Customer 010,Home Office,Technology,Accessories,Tablet,2153.3,5,0.1,311.08,West,Mumbai,Maharashtra
+ORD-10281,2025-03-27,Customer 015,Home Office,Technology,Computers,Laptop,479.12,1,0.2,18.4,Central,Delhi,Delhi
+ORD-10283,2025-03-27,Customer 047,Home Office,Technology,Phones,Tablet,1793.3,5,0.0,278.13,East,Kolkata,West Bengal
+ORD-10383,2025-03-28,Customer 064,Corporate,Furniture,Tables,Desk,1848.92,7,0.15,-29.72,South,Bengaluru,Karnataka
+ORD-10464,2025-03-30,Customer 001,Consumer,Office Supplies,Binders,File Folder,257.84,4,0.05,48.88,West,Mumbai,Maharashtra
+ORD-10100,2025-03-30,Customer 010,Home Office,Technology,Accessories,Smartphone,1961.3,4,0.1,302.98,West,Mumbai,Maharashtra
+ORD-10168,2025-03-30,Customer 032,Corporate,Furniture,Chairs,Cabinet,177.84,1,0.05,11.45,East,Kolkata,West Bengal
+ORD-10304,2025-03-31,Customer 048,Consumer,Technology,Accessories,Tablet,1702.16,5,0.15,110.6,East,Kolkata,West Bengal
+ORD-10075,2025-04-03,Customer 009,Consumer,Office Supplies,Binders,Binder,265.35,6,0.2,35.86,Central,Delhi,Delhi
+ORD-10000,2025-04-03,Customer 024,Corporate,Office Supplies,Paper,Binder,159.71,5,0.0,42.2,East,Kolkata,West Bengal
+ORD-10233,2025-04-04,Customer 017,Corporate,Office Supplies,Binders,Storage Box,135.94,3,0.15,21.86,Central,Delhi,Delhi
+ORD-10445,2025-04-06,Customer 078,Corporate,Furniture,Tables,Bookshelf,1891.78,7,0.1,58.4,South,Bengaluru,Karnataka
+ORD-10199,2025-04-10,Customer 002,Consumer,Office Supplies,Storage,File Folder,229.96,3,0.05,34.15,Central,Delhi,Delhi
+ORD-10179,2025-04-10,Customer 078,Home Office,Office Supplies,Binders,Notebook,224.93,7,0.15,24.05,South,Bengaluru,Karnataka
+ORD-10088,2025-04-13,Customer 049,Consumer,Furniture,Chairs,Office Chair,164.69,1,0.05,19.71,South,Bengaluru,Karnataka
+ORD-10205,2025-04-13,Customer 054,Corporate,Office Supplies,Paper,File Folder,167.83,4,0.0,36.95,East,Kolkata,West Bengal
+ORD-10021,2025-04-17,Customer 025,Consumer,Furniture,Chairs,Conference Table,857.27,3,0.05,125.3,South,Bengaluru,Karnataka
+ORD-10126,2025-04-18,Customer 050,Home Office,Furniture,Bookcases,Office Chair,920.95,4,0.05,65.84,Central,Delhi,Delhi
+ORD-10046,2025-04-20,Customer 072,Consumer,Furniture,Bookcases,Bookshelf,1092.87,5,0.0,121.68,East,Kolkata,West Bengal
+ORD-10090,2025-04-21,Customer 030,Corporate,Office Supplies,Storage,Binder,139.13,3,0.1,11.31,Central,Delhi,Delhi
+ORD-10079,2025-04-22,Customer 027,Corporate,Furniture,Bookcases,Bookshelf,492.13,2,0.1,25.86,West,Mumbai,Maharashtra
+ORD-10395,2025-04-23,Customer 053,Consumer,Technology,Computers,Laptop,1712.98,3,0.1,225.19,South,Bengaluru,Karnataka
+ORD-10359,2025-04-24,Customer 058,Corporate,Office Supplies,Paper,File Folder,81.88,1,0.15,10.64,Central,Delhi,Delhi
+ORD-10024,2025-04-25,Customer 069,Consumer,Office Supplies,Binders,Binder,165.75,3,0.1,31.26,South,Bengaluru,Karnataka
+ORD-10392,2025-04-25,Customer 001,Consumer,Office Supplies,Binders,Printer Paper,81.06,1,0.0,17.89,East,Kolkata,West Bengal
+ORD-10103,2025-04-26,Customer 073,Corporate,Office Supplies,Storage,Binder,219.59,4,0.1,27.5,East,Kolkata,West Bengal
+ORD-10192,2025-04-27,Customer 024,Consumer,Office Supplies,Paper,Storage Box,70.27,1,0.15,10.84,South,Bengaluru,Karnataka
+ORD-10260,2025-04-29,Customer 037,Home Office,Furniture,Bookcases,Bookshelf,600.22,3,0.05,84.31,East,Kolkata,West Bengal
+ORD-10493,2025-05-01,Customer 023,Consumer,Technology,Computers,Smartphone,1424.65,6,0.3,3.62,West,Mumbai,Maharashtra
+ORD-10196,2025-05-02,Customer 059,Corporate,Furniture,Bookcases,Desk,1663.95,7,0.0,154.33,West,Mumbai,Maharashtra
+ORD-10387,2025-05-02,Customer 013,Home Office,Technology,Computers,Smartphone,2362.94,7,0.1,415.18,East,Kolkata,West Bengal
+ORD-10293,2025-05-03,Customer 029,Consumer,Technology,Computers,Laptop,989.29,5,0.0,153.48,South,Bengaluru,Karnataka
+ORD-10384,2025-05-04,Customer 057,Corporate,Furniture,Bookcases,Conference Table,619.23,4,0.1,39.79,East,Kolkata,West Bengal
+ORD-10473,2025-05-05,Customer 080,Corporate,Technology,Accessories,Keyboard,3906.64,5,0.0,773.09,South,Bengaluru,Karnataka
+ORD-10202,2025-05-05,Customer 010,Corporate,Technology,Phones,Tablet,315.26,1,0.2,16.2,West,Mumbai,Maharashtra
+ORD-10482,2025-05-05,Customer 018,Corporate,Technology,Phones,Tablet,253.66,7,0.05,34.72,East,Kolkata,West Bengal
+ORD-10243,2025-05-06,Customer 066,Consumer,Office Supplies,Storage,File Folder,276.0,4,0.3,4.08,Central,Delhi,Delhi
+ORD-10380,2025-05-08,Customer 011,Corporate,Technology,Accessories,Monitor,2016.13,4,0.2,159.79,Central,Delhi,Delhi
+ORD-10412,2025-05-10,Customer 078,Home Office,Furniture,Bookcases,Office Chair,128.81,1,0.15,5.59,Central,Delhi,Delhi
+ORD-10314,2025-05-10,Customer 047,Corporate,Furniture,Tables,Cabinet,154.25,1,0.0,14.24,Central,Delhi,Delhi
+ORD-10398,2025-05-13,Customer 054,Consumer,Furniture,Chairs,Cabinet,547.73,5,0.15,3.17,East,Kolkata,West Bengal
+ORD-10176,2025-05-14,Customer 014,Consumer,Furniture,Tables,Desk,1700.65,7,0.1,161.66,Central,Delhi,Delhi
+ORD-10291,2025-05-15,Customer 025,Corporate,Technology,Accessories,Tablet,2887.94,7,0.05,457.07,West,Mumbai,Maharashtra
+ORD-10333,2025-05-21,Customer 025,Consumer,Technology,Phones,Smartphone,2677.74,6,0.0,467.99,Central,Delhi,Delhi
+ORD-10066,2025-05-22,Customer 018,Consumer,Furniture,Tables,Cabinet,528.79,2,0.1,39.31,Central,Delhi,Delhi
+ORD-10448,2025-05-22,Customer 072,Consumer,Office Supplies,Paper,Notebook,284.54,5,0.05,41.9,South,Bengaluru,Karnataka
+ORD-10054,2025-05-25,Customer 001,Consumer,Office Supplies,Paper,Binder,124.91,3,0.0,25.39,Central,Delhi,Delhi
+ORD-10018,2025-05-25,Customer 019,Consumer,Technology,Phones,Monitor,2156.37,3,0.0,444.66,Central,Delhi,Delhi
+ORD-10143,2025-05-26,Customer 066,Corporate,Furniture,Tables,Office Chair,299.22,3,0.15,29.19,South,Bengaluru,Karnataka
+ORD-10116,2025-05-31,Customer 005,Corporate,Furniture,Chairs,Bookshelf,939.89,5,0.3,-45.23,Central,Delhi,Delhi
+ORD-10025,2025-06-01,Customer 037,Home Office,Office Supplies,Storage,Notebook,54.78,1,0.05,9.76,East,Kolkata,West Bengal
+ORD-10498,2025-06-01,Customer 024,Consumer,Technology,Computers,Keyboard,2496.14,5,0.05,411.15,West,Mumbai,Maharashtra
+ORD-10299,2025-06-01,Customer 008,Consumer,Furniture,Tables,Desk,298.12,6,0.0,49.49,Central,Delhi,Delhi
+ORD-10132,2025-06-04,Customer 038,Consumer,Furniture,Bookcases,Conference Table,2076.81,6,0.05,285.63,South,Bengaluru,Karnataka
+ORD-10080,2025-06-05,Customer 005,Home Office,Technology,Phones,Keyboard,1858.72,5,0.05,305.08,East,Kolkata,West Bengal
+ORD-10096,2025-06-06,Customer 002,Consumer,Technology,Computers,Monitor,2977.67,5,0.15,273.81,Central,Delhi,Delhi
+ORD-10130,2025-06-07,Customer 018,Home Office,Office Supplies,Storage,Notebook,100.71,2,0.05,18.44,South,Bengaluru,Karnataka
+ORD-10285,2025-06-11,Customer 009,Corporate,Furniture,Bookcases,Conference Table,315.1,1,0.2,0.13,Central,Delhi,Delhi
+ORD-10414,2025-06-15,Customer 006,Consumer,Furniture,Tables,Office Chair,1265.21,7,0.1,83.55,South,Bengaluru,Karnataka
+ORD-10356,2025-06-15,Customer 064,Home Office,Office Supplies,Paper,Notebook,350.7,5,0.3,-18.38,West,Mumbai,Maharashtra
+ORD-10422,2025-06-17,Customer 065,Consumer,Office Supplies,Paper,Notebook,240.54,3,0.15,19.76,South,Bengaluru,Karnataka
+ORD-10355,2025-06-17,Customer 006,Consumer,Furniture,Tables,Office Chair,433.41,2,0.0,52.76,East,Kolkata,West Bengal
+ORD-10289,2025-06-19,Customer 029,Consumer,Furniture,Tables,Office Chair,615.4,4,0.2,28.22,South,Bengaluru,Karnataka
+ORD-10402,2025-06-20,Customer 034,Consumer,Technology,Computers,Monitor,554.95,2,0.3,13.29,South,Bengaluru,Karnataka
+ORD-10181,2025-06-20,Customer 079,Home Office,Office Supplies,Storage,Notebook,287.07,6,0.0,48.87,South,Bengaluru,Karnataka
+ORD-10352,2025-06-20,Customer 003,Corporate,Office Supplies,Binders,Notebook,344.62,7,0.15,39.97,East,Kolkata,West Bengal
+ORD-10127,2025-06-21,Customer 046,Consumer,Technology,Computers,Tablet,2786.28,4,0.15,266.17,South,Bengaluru,Karnataka
+ORD-10370,2025-06-24,Customer 019,Consumer,Office Supplies,Storage,Storage Box,115.96,5,0.0,18.06,West,Mumbai,Maharashtra
+ORD-10118,2025-06-24,Customer 009,Consumer,Technology,Phones,Laptop,96.31,1,0.05,12.15,West,Mumbai,Maharashtra
+ORD-10466,2025-06-24,Customer 033,Corporate,Furniture,Chairs,Conference Table,605.67,6,0.2,27.01,East,Kolkata,West Bengal
+ORD-10277,2025-06-27,Customer 062,Consumer,Office Supplies,Paper,Binder,41.49,1,0.15,5.6,South,Bengaluru,Karnataka
+ORD-10063,2025-06-29,Customer 049,Consumer,Furniture,Chairs,Cabinet,1270.55,6,0.05,78.07,East,Kolkata,West Bengal
+ORD-10040,2025-07-01,Customer 024,Home Office,Technology,Accessories,Keyboard,744.59,1,0.15,110.3,South,Bengaluru,Karnataka
+ORD-10367,2025-07-03,Customer 048,Corporate,Technology,Computers,Keyboard,2921.08,6,0.15,251.27,South,Bengaluru,Karnataka
+ORD-10242,2025-07-03,Customer 020,Corporate,Office Supplies,Paper,Binder,96.56,2,0.2,7.66,Central,Delhi,Delhi
+ORD-10433,2025-07-03,Customer 070,Home Office,Technology,Accessories,Monitor,1335.81,4,0.0,225.75,Central,Delhi,Delhi
+ORD-10134,2025-07-06,Customer 017,Consumer,Furniture,Tables,Bookshelf,1199.33,5,0.15,61.85,West,Mumbai,Maharashtra
+ORD-10440,2025-07-06,Customer 080,Consumer,Technology,Accessories,Smartphone,4332.86,7,0.0,822.22,West,Mumbai,Maharashtra
+ORD-10149,2025-07-09,Customer 056,Corporate,Technology,Computers,Keyboard,2795.4,7,0.15,446.71,Central,Delhi,Delhi
+ORD-10122,2025-07-10,Customer 058,Consumer,Technology,Computers,Keyboard,303.8,1,0.2,26.68,Central,Delhi,Delhi
+ORD-10266,2025-07-11,Customer 012,Home Office,Furniture,Chairs,Bookshelf,1685.06,7,0.05,138.52,Central,Delhi,Delhi
+ORD-10223,2025-07-12,Customer 015,Home Office,Office Supplies,Binders,File Folder,157.54,4,0.05,31.59,South,Bengaluru,Karnataka
+ORD-10256,2025-07-13,Customer 032,Consumer,Office Supplies,Storage,File Folder,209.66,4,0.05,41.27,East,Kolkata,West Bengal
+ORD-10331,2025-07-13,Customer 021,Consumer,Furniture,Chairs,Bookshelf,1543.84,4,0.05,97.53,West,Mumbai,Maharashtra
+ORD-10279,2025-07-14,Customer 079,Consumer,Office Supplies,Binders,File Folder,459.95,7,0.05,90.55,East,Kolkata,West Bengal
+ORD-10001,2025-07-14,Customer 059,Consumer,Furniture,Tables,Desk,704.01,4,0.1,26.24,South,Bengaluru,Karnataka
+ORD-10455,2025-07-16,Customer 037,Consumer,Office Supplies,Storage,Storage Box,266.1,4,0.1,31.24,South,Bengaluru,Karnataka
+ORD-10042,2025-07-17,Customer 016,Consumer,Technology,Phones,Tablet,2046.99,4,0.15,191.93,Central,Delhi,Delhi
+ORD-10055,2025-07-18,Customer 037,Corporate,Furniture,Chairs,Cabinet,1712.23,7,0.1,121.22,Central,Delhi,Delhi
+ORD-10004,2025-07-19,Customer 004,Consumer,Office Supplies,Storage,Notebook,263.59,4,0.1,32.65,Central,Delhi,Delhi
+ORD-10247,2025-07-24,Customer 039,Corporate,Office Supplies,Binders,Notebook,43.82,1,0.15,6.27,Central,Delhi,Delhi
+ORD-10115,2025-07-24,Customer 072,Home Office,Office Supplies,Binders,Binder,200.33,6,0.3,9.31,Central,Delhi,Delhi
+ORD-10244,2025-07-26,Customer 012,Corporate,Office Supplies,Paper,Notebook,507.2,7,0.0,98.16,Central,Delhi,Delhi
+ORD-10357,2025-07-27,Customer 004,Consumer,Technology,Computers,Tablet,757.34,3,0.0,102.9,South,Bengaluru,Karnataka
+ORD-10415,2025-07-28,Customer 035,Consumer,Furniture,Tables,Conference Table,164.53,1,0.1,6.93,Central,Delhi,Delhi
+ORD-10086,2025-07-28,Customer 025,Home Office,Office Supplies,Paper,Notebook,378.08,5,0.0,69.01,West,Mumbai,Maharashtra
+ORD-10428,2025-07-28,Customer 012,Consumer,Furniture,Tables,Bookshelf,424.49,3,0.2,16.14,Central,Delhi,Delhi
+ORD-10335,2025-07-28,Customer 069,Consumer,Technology,Computers,Laptop,2532.86,5,0.0,499.07,West,Mumbai,Maharashtra
+ORD-10258,2025-07-29,Customer 069,Consumer,Furniture,Tables,Conference Table,530.14,3,0.1,31.13,South,Bengaluru,Karnataka
+ORD-10022,2025-08-02,Customer 033,Consumer,Furniture,Tables,Desk,1389.6,6,0.0,166.1,South,Bengaluru,Karnataka
+ORD-10311,2025-08-03,Customer 053,Corporate,Furniture,Chairs,Desk,332.2,4,0.1,24.78,East,Kolkata,West Bengal
+ORD-10418,2025-08-05,Customer 057,Consumer,Technology,Accessories,Tablet,1871.3,6,0.15,119.87,West,Mumbai,Maharashtra
+ORD-10497,2025-08-06,Customer 080,Corporate,Office Supplies,Binders,Binder,54.56,1,0.0,9.72,West,Mumbai,Maharashtra
+ORD-10364,2025-08-08,Customer 053,Corporate,Technology,Phones,Keyboard,688.1,4,0.15,61.02,South,Bengaluru,Karnataka
+ORD-10288,2025-08-08,Customer 046,Consumer,Technology,Phones,Laptop,2917.23,6,0.0,654.62,West,Mumbai,Maharashtra
+ORD-10410,2025-08-10,Customer 001,Consumer,Technology,Computers,Smartphone,1797.54,5,0.0,300.92,South,Bengaluru,Karnataka
+ORD-10156,2025-08-11,Customer 031,Corporate,Furniture,Tables,Office Chair,297.4,1,0.15,8.9,South,Bengaluru,Karnataka
+ORD-10480,2025-08-14,Customer 038,Consumer,Technology,Accessories,Laptop,1623.5,5,0.1,223.61,Central,Delhi,Delhi
+ORD-10318,2025-08-15,Customer 034,Corporate,Office Supplies,Storage,Notebook,531.54,7,0.2,62.58,East,Kolkata,West Bengal
+ORD-10169,2025-08-19,Customer 018,Consumer,Furniture,Chairs,Cabinet,244.21,1,0.0,29.29,West,Mumbai,Maharashtra
+ORD-10203,2025-08-20,Customer 058,Consumer,Office Supplies,Storage,Binder,156.07,2,0.1,19.78,East,Kolkata,West Bengal
+ORD-10186,2025-08-20,Customer 005,Consumer,Furniture,Chairs,Bookshelf,492.19,7,0.0,98.93,West,Mumbai,Maharashtra
+ORD-10234,2025-08-25,Customer 046,Consumer,Technology,Computers,Smartphone,1478.85,3,0.1,213.71,South,Bengaluru,Karnataka
+ORD-10337,2025-08-25,Customer 008,Consumer,Furniture,Bookcases,Bookshelf,903.39,4,0.05,103.69,West,Mumbai,Maharashtra
+ORD-10263,2025-08-26,Customer 063,Consumer,Technology,Phones,Monitor,2298.13,5,0.05,384.52,Central,Delhi,Delhi
+ORD-10290,2025-08-26,Customer 058,Home Office,Furniture,Tables,Office Chair,357.58,4,0.05,29.55,West,Mumbai,Maharashtra
+ORD-10038,2025-08-27,Customer 026,Corporate,Technology,Phones,Smartphone,1482.77,3,0.0,239.2,West,Mumbai,Maharashtra
+ORD-10158,2025-08-27,Customer 033,Consumer,Furniture,Bookcases,Office Chair,677.93,5,0.05,33.42,East,Kolkata,West Bengal
+ORD-10468,2025-08-27,Customer 022,Consumer,Office Supplies,Storage,Printer Paper,183.82,3,0.05,38.37,Central,Delhi,Delhi
+ORD-10336,2025-08-28,Customer 048,Consumer,Office Supplies,Paper,Printer Paper,191.58,3,0.1,20.02,West,Mumbai,Maharashtra
+ORD-10184,2025-08-31,Customer 004,Corporate,Office Supplies,Storage,Notebook,120.55,3,0.15,12.14,South,Bengaluru,Karnataka
+ORD-10312,2025-09-06,Customer 038,Consumer,Technology,Phones,Monitor,3991.66,6,0.05,507.63,South,Bengaluru,Karnataka
+ORD-10397,2025-09-06,Customer 043,Corporate,Office Supplies,Binders,File Folder,30.87,1,0.0,6.6,East,Kolkata,West Bengal
+ORD-10078,2025-09-07,Customer 051,Consumer,Furniture,Chairs,Office Chair,126.79,1,0.1,2.1,West,Mumbai,Maharashtra
+ORD-10420,2025-09-09,Customer 018,Consumer,Furniture,Tables,Cabinet,1437.47,6,0.1,77.39,West,Mumbai,Maharashtra
+ORD-10210,2025-09-10,Customer 070,Consumer,Office Supplies,Storage,File Folder,182.54,3,0.3,-1.15,East,Kolkata,West Bengal
+ORD-10248,2025-09-11,Customer 019,Consumer,Technology,Computers,Tablet,1161.42,3,0.05,154.37,South,Bengaluru,Karnataka
+ORD-10031,2025-09-11,Customer 005,Consumer,Technology,Accessories,Tablet,2408.83,4,0.05,330.42,West,Mumbai,Maharashtra
+ORD-10491,2025-09-12,Customer 074,Consumer,Technology,Computers,Keyboard,1912.0,4,0.15,194.55,East,Kolkata,West Bengal
+ORD-10323,2025-09-17,Customer 016,Home Office,Furniture,Bookcases,Office Chair,1021.02,5,0.2,-4.2,Central,Delhi,Delhi
+ORD-10294,2025-09-22,Customer 005,Consumer,Technology,Computers,Monitor,4086.12,7,0.3,278.61,South,Bengaluru,Karnataka
+ORD-10255,2025-09-25,Customer 030,Consumer,Technology,Accessories,Tablet,667.33,2,0.1,80.05,West,Mumbai,Maharashtra
+ORD-10347,2025-09-29,Customer 032,Home Office,Furniture,Chairs,Conference Table,497.64,2,0.05,18.58,West,Mumbai,Maharashtra
+ORD-10381,2025-09-29,Customer 040,Consumer,Furniture,Tables,Bookshelf,845.63,4,0.1,35.41,South,Bengaluru,Karnataka
+ORD-10002,2025-10-08,Customer 021,Consumer,Office Supplies,Binders,Binder,417.08,4,0.0,88.35,West,Mumbai,Maharashtra
+ORD-10050,2025-10-09,Customer 058,Consumer,Furniture,Tables,Conference Table,575.93,4,0.1,28.95,South,Bengaluru,Karnataka
+ORD-10154,2025-10-09,Customer 047,Corporate,Technology,Computers,Smartphone,445.14,1,0.1,82.4,South,Bengaluru,Karnataka
+ORD-10322,2025-10-21,Customer 068,Corporate,Technology,Accessories,Tablet,879.2,3,0.2,54.16,West,Mumbai,Maharashtra
+ORD-10431,2025-10-21,Customer 025,Consumer,Office Supplies,Paper,Printer Paper,333.56,5,0.0,73.86,South,Bengaluru,Karnataka
+ORD-10484,2025-10-21,Customer 017,Corporate,Technology,Phones,Keyboard,554.1,2,0.1,69.91,West,Mumbai,Maharashtra
+ORD-10198,2025-10-22,Customer 008,Corporate,Furniture,Bookcases,Office Chair,828.53,4,0.15,38.09,West,Mumbai,Maharashtra
+ORD-10027,2025-10-24,Customer 066,Consumer,Furniture,Bookcases,Desk,455.83,3,0.1,31.73,West,Mumbai,Maharashtra
+ORD-10399,2025-10-29,Customer 017,Corporate,Office Supplies,Storage,Binder,31.27,1,0.0,5.31,South,Bengaluru,Karnataka
+ORD-10016,2025-11-02,Customer 070,Consumer,Office Supplies,Paper,Notebook,43.94,1,0.1,5.82,South,Bengaluru,Karnataka
+ORD-10073,2025-11-03,Customer 006,Consumer,Technology,Accessories,Keyboard,2637.55,6,0.1,233.87,West,Mumbai,Maharashtra
+ORD-10460,2025-11-03,Customer 001,Consumer,Technology,Phones,Smartphone,957.26,2,0.0,123.22,South,Bengaluru,Karnataka
+ORD-10095,2025-11-03,Customer 023,Corporate,Technology,Accessories,Keyboard,3260.48,6,0.0,556.61,South,Bengaluru,Karnataka
+ORD-10443,2025-11-04,Customer 058,Consumer,Technology,Phones,Keyboard,1283.14,2,0.0,237.4,South,Bengaluru,Karnataka
+ORD-10400,2025-11-06,Customer 058,Consumer,Furniture,Tables,Cabinet,153.13,3,0.2,1.96,West,Mumbai,Maharashtra
+ORD-10365,2025-11-07,Customer 063,Consumer,Office Supplies,Storage,File Folder,73.45,2,0.1,13.81,East,Kolkata,West Bengal
+ORD-10434,2025-11-07,Customer 022,Corporate,Technology,Phones,Monitor,552.34,2,0.15,48.37,East,Kolkata,West Bengal
+ORD-10372,2025-11-08,Customer 025,Consumer,Technology,Computers,Keyboard,2518.74,4,0.1,313.45,South,Bengaluru,Karnataka
+ORD-10469,2025-11-09,Customer 028,Consumer,Furniture,Tables,Office Chair,719.86,7,0.3,5.33,Central,Delhi,Delhi
+ORD-10339,2025-11-10,Customer 036,Consumer,Office Supplies,Paper,Printer Paper,306.78,5,0.15,44.28,Central,Delhi,Delhi
+ORD-10300,2025-11-11,Customer 016,Corporate,Technology,Phones,Tablet,379.16,5,0.15,43.77,South,Bengaluru,Karnataka
+ORD-10361,2025-11-12,Customer 061,Corporate,Office Supplies,Paper,Printer Paper,230.57,4,0.15,35.13,West,Mumbai,Maharashtra
+ORD-10028,2025-11-12,Customer 026,Corporate,Furniture,Tables,Office Chair,252.24,1,0.1,10.89,East,Kolkata,West Bengal
+ORD-10467,2025-11-13,Customer 038,Consumer,Office Supplies,Binders,File Folder,310.87,7,0.1,43.7,East,Kolkata,West Bengal
+ORD-10240,2025-11-14,Customer 033,Corporate,Furniture,Tables,Cabinet,879.22,7,0.05,102.06,East,Kolkata,West Bengal
+ORD-10136,2025-11-16,Customer 015,Consumer,Technology,Phones,Monitor,584.49,2,0.1,68.13,Central,Delhi,Delhi
+ORD-10225,2025-11-18,Customer 004,Corporate,Furniture,Chairs,Conference Table,212.75,1,0.15,5.92,West,Mumbai,Maharashtra
+ORD-10441,2025-11-18,Customer 020,Consumer,Technology,Accessories,Monitor,400.11,1,0.0,71.75,West,Mumbai,Maharashtra
+ORD-10183,2025-11-20,Customer 031,Corporate,Office Supplies,Storage,Storage Box,132.51,3,0.1,16.82,East,Kolkata,West Bengal
+ORD-10185,2025-11-20,Customer 063,Corporate,Technology,Phones,Monitor,2109.1,4,0.15,140.6,Central,Delhi,Delhi
+ORD-10037,2025-11-21,Customer 043,Home Office,Technology,Computers,Monitor,2799.19,4,0.1,245.95,Central,Delhi,Delhi
+ORD-10014,2025-11-22,Customer 062,Home Office,Office Supplies,Binders,File Folder,319.9,7,0.1,40.92,South,Bengaluru,Karnataka
+ORD-10338,2025-11-24,Customer 037,Corporate,Technology,Phones,Keyboard,2136.41,6,0.2,218.4,South,Bengaluru,Karnataka
+ORD-10371,2025-11-25,Customer 028,Consumer,Technology,Computers,Laptop,2464.39,4,0.05,390.52,Central,Delhi,Delhi
+ORD-10369,2025-11-25,Customer 079,Consumer,Furniture,Bookcases,Conference Table,1339.5,5,0.15,103.63,West,Mumbai,Maharashtra
+ORD-10401,2025-11-26,Customer 028,Consumer,Technology,Phones,Monitor,4682.44,7,0.05,671.4,West,Mumbai,Maharashtra
+ORD-10011,2025-11-29,Customer 028,Home Office,Furniture,Chairs,Cabinet,1114.59,7,0.0,158.62,East,Kolkata,West Bengal
+ORD-10368,2025-11-29,Customer 021,Corporate,Office Supplies,Paper,Binder,177.14,5,0.0,34.13,Central,Delhi,Delhi
+ORD-10390,2025-11-29,Customer 076,Corporate,Office Supplies,Binders,Notebook,470.67,6,0.05,73.94,Central,Delhi,Delhi
+ORD-10124,2025-11-30,Customer 064,Consumer,Office Supplies,Binders,Storage Box,405.37,6,0.0,58.06,Central,Delhi,Delhi
+ORD-10427,2025-11-30,Customer 077,Corporate,Furniture,Tables,Office Chair,541.49,4,0.15,7.11,West,Mumbai,Maharashtra
+ORD-10200,2025-12-01,Customer 056,Corporate,Office Supplies,Binders,Binder,451.63,7,0.1,75.29,West,Mumbai,Maharashtra
+ORD-10058,2025-12-04,Customer 038,Corporate,Technology,Phones,Keyboard,3155.33,5,0.2,270.59,West,Mumbai,Maharashtra
+ORD-10147,2025-12-07,Customer 014,Consumer,Office Supplies,Paper,File Folder,216.39,4,0.05,40.42,East,Kolkata,West Bengal
+ORD-10171,2025-12-08,Customer 013,Consumer,Technology,Phones,Monitor,552.77,3,0.05,63.52,West,Mumbai,Maharashtra
+ORD-10238,2025-12-08,Customer 068,Home Office,Technology,Accessories,Tablet,1420.23,5,0.15,92.98,West,Mumbai,Maharashtra
+ORD-10106,2025-12-10,Customer 072,Consumer,Office Supplies,Binders,Binder,460.43,7,0.15,69.03,East,Kolkata,West Bengal
+ORD-10236,2025-12-18,Customer 063,Corporate,Furniture,Bookcases,Bookshelf,569.89,2,0.3,-17.18,South,Bengaluru,Karnataka
+ORD-10458,2025-12-20,Customer 030,Home Office,Office Supplies,Paper,File Folder,382.92,6,0.3,2.15,East,Kolkata,West Bengal
+ORD-10389,2025-12-20,Customer 022,Corporate,Office Supplies,Binders,File Folder,187.54,5,0.0,33.48,West,Mumbai,Maharashtra
+ORD-10429,2025-12-20,Customer 036,Consumer,Technology,Computers,Keyboard,550.12,1,0.2,29.45,East,Kolkata,West Bengal
+ORD-10133,2025-12-21,Customer 072,Consumer,Office Supplies,Binders,Storage Box,135.11,5,0.3,12.69,West,Mumbai,Maharashtra
+ORD-10437,2025-12-21,Customer 075,Home Office,Office Supplies,Storage,Storage Box,262.78,4,0.05,64.48,East,Kolkata,West Bengal
+ORD-10072,2025-12-24,Customer 020,Consumer,Office Supplies,Storage,Printer Paper,140.12,3,0.3,6.98,Central,Delhi,Delhi
+ORD-10051,2025-12-24,Customer 077,Corporate,Technology,Phones,Monitor,1511.48,3,0.05,315.57,East,Kolkata,West Bengal
+ORD-10231,2025-12-24,Customer 016,Consumer,Furniture,Chairs,Cabinet,1004.35,4,0.1,64.55,Central,Delhi,Delhi
+ORD-10065,2025-12-26,Customer 014,Corporate,Furniture,Chairs,Office Chair,537.45,3,0.05,40.43,Central,Delhi,Delhi
+ORD-10270,2025-12-26,Customer 043,Home Office,Technology,Phones,Keyboard,4126.22,7,0.2,386.52,West,Mumbai,Maharashtra
+ORD-10286,2025-12-28,Customer 008,Corporate,Furniture,Tables,Office Chair,1179.05,4,0.05,165.74,West,Mumbai,Maharashtra
+ORD-10206,2025-12-28,Customer 080,Consumer,Furniture,Tables,Conference Table,710.03,4,0.1,100.64,South,Bengaluru,Karnataka
+ORD-10008,2025-12-28,Customer 037,Corporate,Technology,Computers,Laptop,1498.12,4,0.05,220.12,South,Bengaluru,Karnataka
+ORD-10282,2025-12-29,Customer 055,Consumer,Technology,Accessories,Monitor,1475.38,3,0.1,158.63,Central,Delhi,Delhi
+ORD-10444,2025-12-29,Customer 033,Corporate,Furniture,Chairs,Conference Table,2198.52,6,0.2,38.13,South,Bengaluru,Karnataka
+ORD-10362,2025-12-30,Customer 002,Consumer,Office Supplies,Paper,Storage Box,219.43,3,0.1,37.48,Central,Delhi,Delhi
+ORD-10268,2025-12-31,Customer 051,Corporate,Office Supplies,Storage,Binder,152.19,3,0.15,20.96,Central,Delhi,Delhi
