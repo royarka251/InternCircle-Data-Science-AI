@@ -7,11 +7,12 @@ This task focuses on performing Exploratory Data Analysis (EDA) on the classic T
 ## Objectives
 
 - Load and inspect the Titanic dataset
-- Perform basic data exploration
+- Understand the structure of the dataset
+- Analyze data types and statistical information
 - Identify missing values
 - Check and handle duplicate records
 - Perform grouping and aggregation
-- Extract meaningful insights from the dataset
+- Analyze survival patterns
 
 ## Tools Used
 
@@ -19,11 +20,34 @@ This task focuses on performing Exploratory Data Analysis (EDA) on the classic T
 - Google Colab
 - Pandas
 - NumPy
+- Seaborn
 
 ## Dataset
 
-Titanic dataset provided through the Seaborn library.
+The Titanic dataset was loaded using the Seaborn library.
 
-## Expected Outcome
+## Analysis Performed
 
-A complete exploratory data analysis of the Titanic dataset using Pandas.
+- Dataset shape and information
+- Column analysis
+- Statistical summary
+- Missing value analysis
+- Duplicate record detection
+- Missing value handling
+- Survival analysis by gender
+- Survival analysis by passenger class
+- Grouping and aggregation
+
+## Key Observations
+
+- The dataset contains passenger information along with survival status.
+- Missing values were identified and handled.
+- Duplicate records were checked.
+- Survival rates were compared across gender and passenger classes.
+- Pandas grouping and aggregation were used to identify survival patterns.
+
+## Notebook
+
+The complete analysis is available in:
+
+`Task-2-Titanic-EDA.ipynb`
