@@ -2,9 +2,17 @@
 import streamlit as st
 import pandas as pd
 import joblib
+import os
 
-# Load trained model
-model = joblib.load("model.pkl")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_PATH = os.path.join(BASE_DIR, "model.pkl")
+
+model = joblib.load(MODEL_PATH)
+
+
+
+
+
 
 st.set_page_config(
     page_title="Titanic Survival Predictor",
